@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafalves106" alt="rafalves106" /></a> </p>
 
-- 🔭 I’m currently working on **Ponto Gest (.gest)**
+- 🔭 I’m currently working on **Gest Point (.gest)**
 
 - 🌱 I’m currently learning **Java, typescript and python**
 
