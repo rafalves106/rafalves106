@@ -2,7 +2,7 @@
 - 👀 Tenho interesse em aprender mais sobre JavaScript.
 - 🌱 Atualmente, estou estudando FullStack em Java e BackEnd em Python.
 - 💼 Estou aberto a colaborações em projetos interessantes.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/rafalves106/)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/falves-dev/)
 
 <!---
 rafalves106/rafalves106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
