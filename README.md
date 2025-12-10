@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @rafalves106
-- 👀 Tenho interesse em aprender mais sobre JavaScript.
-- 🌱 Atualmente, estou estudando FullStack em Java e BackEnd em Python.
+- 👀 Tenho interesse em aprender mais sobre Java Core e Java POO.
+- 🌱 Atualmente, estou estudando Backend em Java.
 - 💼 Estou aberto a colaborações em projetos interessantes.
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/falves-dev/)
 
